@@ -1,0 +1,14 @@
+{
+  "name": "orus-ai-core",
+  "version": "1.0.0",
+  "description": "Backend e Orquestrador da ORUS IA",
+  "main": "server.ts",
+  "scripts": {
+    "start": "node server.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
